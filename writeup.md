@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 
 ###1. Pipeline description
 
-My pipeline consisted of following steps: 
+My pipeline consists of following steps: 
 * light normalization using CLAHE (adaptive histogram equalization)
 * grayscale conversion
 * suppressing noise using Gaussian blur algorithm 
